@@ -1,0 +1,16 @@
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\bin\Debug\net8.0-windows\TV Price Calculator.exe
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\bin\Debug\net8.0-windows\TV Price Calculator.deps.json
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\bin\Debug\net8.0-windows\TV Price Calculator.runtimeconfig.json
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\bin\Debug\net8.0-windows\TV Price Calculator.dll
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\bin\Debug\net8.0-windows\TV Price Calculator.pdb
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\obj\Debug\net8.0-windows\TV_Price_Calculator.Form1.resources
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\obj\Debug\net8.0-windows\TV Price Calculator.vbproj.GenerateResource.cache
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\obj\Debug\net8.0-windows\TV Price Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\obj\Debug\net8.0-windows\TV Price Calculator.AssemblyInfoInputs.cache
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\obj\Debug\net8.0-windows\TV Price Calculator.AssemblyInfo.vb
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\obj\Debug\net8.0-windows\TV Price Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\obj\Debug\net8.0-windows\TV Price Calculator.dll
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\obj\Debug\net8.0-windows\refint\TV Price Calculator.dll
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\obj\Debug\net8.0-windows\TV Price Calculator.pdb
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\obj\Debug\net8.0-windows\TV Price Calculator.genruntimeconfig.cache
+C:\Users\ihsaa\Projects\tv-price-calculator\TV Price Calculator\TV Price Calculator\obj\Debug\net8.0-windows\ref\TV Price Calculator.dll
